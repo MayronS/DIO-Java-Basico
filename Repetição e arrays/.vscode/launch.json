@@ -1,0 +1,49 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaiorEMedia",
+      "request": "launch",
+      "mainClass": "MaiorEMedia",
+      "projectName": "Repetição e arrays_6fbe0ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch NomeIdade",
+      "request": "launch",
+      "mainClass": "NomeIdade",
+      "projectName": "Repetição e arrays_6fbe0ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch Nota",
+      "request": "launch",
+      "mainClass": "Nota",
+      "projectName": "Repetição e arrays_6fbe0ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch ParEImpar",
+      "request": "launch",
+      "mainClass": "ParEImpar",
+      "projectName": "Repetição e arrays_6fbe0ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tabuada",
+      "request": "launch",
+      "mainClass": "Tabuada",
+      "projectName": "Repetição e arrays_6fbe0ebf"
+    }
+  ]
+}
